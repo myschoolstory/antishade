@@ -1,0 +1,7 @@
+torch
+numpy
+diffusers
+einops
+huggingface_hub
+transformers
+accelerate
